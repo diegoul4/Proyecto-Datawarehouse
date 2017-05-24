@@ -7,7 +7,7 @@ Gomez Vergara Jorge Eduardo 213498563
 
 Romero García Irma Alejandra 210637767
 
-Cruz Monserrat
+Cruz Medina Montserrat 209686428
 
 
 # Descripción de proyecto
